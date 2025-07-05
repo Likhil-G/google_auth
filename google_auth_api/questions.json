@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "question": "What is the purpose of the useEffect hook in React?",
+    "options": [
+      "To handle component styling",
+      "To perform side effects",
+      "To manage state",
+      "To render components"
+    ],
+    "answer": "To perform side effects"
+  },
+  {
+    "id": 2,
+    "question": "Which method is used to pass data to child components in React?",
+    "options": [
+      "props",
+      "state",
+      "setState",
+      "getData"
+    ],
+    "answer": "props"
+  },
+  {
+    "id": 3,
+    "question": "Which of the following is NOT a valid React hook?",
+    "options": [
+      "useEffect",
+      "useReducer",
+      "useState",
+      "useFetch"
+    ],
+    "answer": "useFetch"
+  },
+  {
+    "id": 4,
+    "question": "What is the default port number for React development server?",
+    "options": [
+      "3000",
+      "8080",
+      "5000",
+      "8000"
+    ],
+    "answer": "3000"
+  },
+  {
+    "id": 5,
+    "question": "Which tool is used to compile JSX into JavaScript?",
+    "options": [
+      "Webpack",
+      "ReactDOM",
+      "Babel",
+      "Parcel"
+    ],
+    "answer": "Babel"
+  },
+  {
+    "id": 6,
+    "question": "What does JSX stand for?",
+    "options": [
+      "JavaScript Extension",
+      "JavaScript XML",
+      "Java Syntax Extension",
+      "Java XML Syntax"
+    ],
+    "answer": "JavaScript XML"
+  },
+  {
+    "id": 7,
+    "question": "Which of the following is used to handle dynamic routing in React?",
+    "options": [
+      "React Router",
+      "React Redux",
+      "React DOM",
+      "React Native"
+    ],
+    "answer": "React Router"
+  },
+  {
+    "id": 8,
+    "question": "What is a key prop in React used for?",
+    "options": [
+      "To identify elements uniquely in a list",
+      "To define default props",
+      "To trigger rerender",
+      "To access DOM nodes"
+    ],
+    "answer": "To identify elements uniquely in a list"
+  },
+  {
+    "id": 9,
+    "question": "What does the virtual DOM do in React?",
+    "options": [
+      "It updates the real DOM directly",
+      "It renders the UI faster",
+      "It optimizes performance by reducing direct manipulation of the DOM",
+      "It serves as the application cache"
+    ],
+    "answer": "It optimizes performance by reducing direct manipulation of the DOM"
+  },
+  {
+    "id": 10,
+    "question": "Which function is used to update state in a functional component?",
+    "options": [
+      "updateState",
+      "setState",
+      "set",
+      "useState"
+    ],
+    "answer": "setState"
+  }
+]
